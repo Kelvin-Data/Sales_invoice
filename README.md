@@ -4,4 +4,4 @@ In this second part of the series, we’ll build on the Google Sheets integratio
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/02/how-to-automatically-generate-and-email_24.html
 
-![image_source](https://github.com/Kelvin-Data/...)
+![image_source]([https://github.com/Kelvin-Data/...](https://github.com/Kelvin-Data/Sales_invoice/blob/9b30a4812d90e420b117b79ca890be639147be5f/Sales%20Invoice.png))
